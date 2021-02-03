@@ -9,3 +9,11 @@ In this python project, user has to copy the youtube video URL that they want to
 * Tkinter :
 Tkinter is a standard GUI library and it is one of the easiest ways to build a GUI application.
 
+* pafy :
+pafy is a python library that is used to retrieve Youtube Content and metadata. We can collect video bit-rate, size, duration, rating, author and we can also convert them into audio and we can download the content in the audio format.
+
+# Installing the module 
+
+* pip install tkinter
+* pip install pafy
+
